@@ -1,5 +1,5 @@
 # virtual-keyboard
-**See application demo** - https://hannakaleda.github.io/virtual-keyboard/
+**See project demo** - https://hannakaleda.github.io/virtual-keyboard/
 
 The Virtual-keyboard project was created using **HTML, CSS, JS**
 
