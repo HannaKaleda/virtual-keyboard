@@ -10,8 +10,7 @@ The Virtual-keyboard project was created using **HTML, CSS, JS**
 4. The selected language is saved after page reload.
 5. Clicks on the buttons with the mouse on the virtual keyboard and pressing the buttons on the physical keyboard display the characters in textarea located on the page above the keyboard. 
 6. Pressing the left and right arrows implements navigation.
-7. Pressing enter transfers the carriage.
-8. Tab, backspace, del, shift, alt, ctrl, caps lock, space work like in a real keyboard.
+7. Tab, enter, backspace, del, shift, alt, ctrl, caps lock, space work like in a real keyboard.
 
 **To run the application, you need to**
 1. Clone the repository
