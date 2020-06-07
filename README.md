@@ -12,7 +12,7 @@ The Virtual-keyboard project was created using **HTML, CSS, JS**
 6. Pressing the left and right arrows implements navigation.
 7. Tab, enter, backspace, del, shift, alt, ctrl, caps lock, space work like in a real keyboard.
 
-**To run the application, you need to**
+**To run the project you need to**
 1. Clone the repository
 2. Go to folder virtual-keyboard
 3. Open index.html file
